@@ -1,0 +1,3 @@
+[submodule "website/build/react-square-payment-form-gh-pages"]
+	path = node_modules/react-square-payment-form
+	url = https://github.com/square/react-square-payment-form
